@@ -1,0 +1,13 @@
+package br.com.conectateabackend.aulaawsjavards;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AulaAwsJavaRdsApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(AulaAwsJavaRdsApplication.class, args);
+    }
+
+}
